@@ -1,0 +1,6 @@
+[submodule "souper-star"]
+	path = souper-star
+	url = https://github.com/FredHutch/souper-star
+[submodule "sciCTextract"]
+	path = sciCTextract
+	url = https://github.com/mfitzgib/sciCTextract
