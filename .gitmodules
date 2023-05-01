@@ -4,3 +4,7 @@
 [submodule "sciCTextract"]
 	path = sciCTextract
 	url = https://github.com/mfitzgib/sciCTextract
+[submodule "concat-ref_align"]
+	path = concat-ref_align
+	url = https://github.com/jacob-greene/concat-ref_align
+	branch = main
